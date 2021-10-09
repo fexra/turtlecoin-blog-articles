@@ -25,3 +25,7 @@ All articles should start with the following template
 ![](./images/{{ARTICLE HEADER IMAGE}})
 
 ```
+
+### Notes
+
+First 144 articles have been scraped from Medium and converted to Markdown using [turtlecoin-medium-scraper](https://github.com/fexra/turtlecoin-medium-scraper)

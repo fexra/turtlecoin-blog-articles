@@ -6,11 +6,11 @@
 ### Structure
 Please follow the following folder structure when publishing a new article: ``:year/:month/:slug/index.md``
 
-All images should reside in: ``:year/:month/:slug/images`` and be internally referenced in the 
+All images should reside in: ``:year/:month/:slug/images`` and be internally referenced in the markdown.
 
 ### Header
 
-All articles should start with the following template
+All articles should start with the following layout:
 
 ```
 # {{TITLE}}
